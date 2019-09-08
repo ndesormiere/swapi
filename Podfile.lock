@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Cache (5.2.0)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cache
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cache
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Cache: 807c5d86d01a177f06ede9865add3aea269bbfd4
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+
+PODFILE CHECKSUM: 4c33f2c8fcc19c61363f06e66c827cdb81c1798a
+
+COCOAPODS: 1.7.5

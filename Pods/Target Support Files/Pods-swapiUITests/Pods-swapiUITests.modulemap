@@ -1,0 +1,6 @@
+framework module Pods_swapiUITests {
+  umbrella header "Pods-swapiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
